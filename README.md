@@ -1,5 +1,5 @@
 # 🧩 Overview
-**cased** module provides you the most common cases in python & text methods simply & explicitly.
+**casetools** module provides you the most common cases in python & text methods simply & explicitly.
 
 ---
 
@@ -7,7 +7,7 @@
 this class provides every feature of this module, from the path/case/style to repeating the text in the matter of moments.
 It's all simple: make an instance of _cased_ class:
 ```python
-from cased import cased
+from casetools import cased
 
 example: cased = cased("I love python")
 ```
@@ -36,14 +36,14 @@ From the available cases are:
 Install directly from PyPi:
 	
 ```bash
-pip install cased
+pip install casetools
 ```
 
 or from github:
 
 ```bash
-git clone https://github.com/johnathan31/cased.git
-cd cased
+git clone https://github.com/johnathan31/casetools.git
+cd casetools
 pip install .
 ```
 
